@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="#Z`Ccl9~x1.7+yS:tiJ_" x="492" y="-13"><statement name="HANDLER"><block type="radio_datagram_send" id="Xs40?Z@5bklQ)_GI5S}_"><value name="value"><shadow type="math_number" id="3)P7]o?vEP4ng7;:owo4"><field name="NUM">1</field></shadow></value></block></statement></block><block type="pxt-on-start" id="zH1=`KcexmZ2mC[AZaHg" x="20" y="20"><statement name="HANDLER"><block type="radio_set_group" id="VNZvCb+fm$?/5Ji4Dib2"><value name="ID"><shadow type="math_number_minmax" id="Co5v=}FhVZ:-MG_B;..?"><mutation min="0" max="255" label="Id" precision="0"/><field name="SLIDER">222</field></shadow></value><next><block type="radio_set_transmit_power" id="m5P*f1A^k5*F-pSfjUNo"><value name="power"><shadow type="math_number_minmax" id=";{yLFtZUI=bG7^oS+hXw"><mutation min="0" max="7" label="Power" precision="0"/><field name="SLIDER">1</field></shadow></value></block></next></block></statement></block></xml>
